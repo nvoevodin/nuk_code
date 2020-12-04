@@ -1,0 +1,30 @@
+.circleBase {
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    background: yellow;
+    border: 5px solid rgb(195, 74, 4);
+    opacity: 0.05;
+}
+
+
+
+
+
+
+  .Lgroup{
+    margin: 15px;
+    width: 25%;
+    opacity: 0.75; 
+    font-size: 19px;
+
+    
+    
+}
+
+@media (max-width: 700px) {
+    .Lgroup {
+        font-size: 8px;
+        width: 45%;
+    }
+}
